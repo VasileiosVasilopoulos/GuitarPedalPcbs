@@ -1,7 +1,7 @@
 ## Guitar Pedal Pcb Projects
 
 Collection of Guitar and Bass Pedal pcbs 
-designed with the free version of (Eagle)[https://www.autodesk.com/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1].
+designed with the free version of [Eagle](https://www.autodesk.com/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1).
 
 
 ### Licence
@@ -12,7 +12,7 @@ I would not recommend using commercially since
 copyrights may apply to the schematics / fonts etc.
 
 
-###<ins>List of effects</ins>
+### <ins>List of effects</ins>
 
 #### Fuzz 
 - Randy's Gut (EQD Dirt Transmitter clone)
