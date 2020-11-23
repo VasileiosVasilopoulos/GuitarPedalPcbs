@@ -8,4 +8,4 @@ Schematic based on EQD Dirt Transmitter
 ###Board Preview: 
 
 
-![alt text](https://github.com/VasileiosVasilopoulos/GuitarPedalPcbs/Randys_Gut/blob/main/Randys_Gut.png?raw=true)
+![alt text](https://github.com//GuitarPedalPcbs/blob/master/Randys_Gut/Randys_Gut.png?raw=true)
