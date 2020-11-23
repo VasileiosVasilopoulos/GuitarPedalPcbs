@@ -5,7 +5,7 @@ Fuzz
 Schematic based on EQD Dirt Transmitter
 
 
-###Board Preview: 
+### Board Preview: 
 
 
-![alt text](https://github.com//GuitarPedalPcbs/blob/master/Randys_Gut/Randys_Gut.png?raw=true)
+![alt text](Randys_Gut.png?raw=true)
