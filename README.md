@@ -15,14 +15,14 @@ copyrights may apply to the schematics / fonts etc.
 ### <ins>List of effects</ins>
 
 #### Fuzz 
-- Randy's Gut (EQD Dirt Transmitter clone)
+- [Randy's Gut](Randys_Gut) (EQD Dirt Transmitter clone)
 - Zeus (Similar to EQD Blach Ash)
 
 #### Octaver
-- Poseidon (EQD Tentacle clone)
+- [Poseidon](Poseidon) (EQD Tentacle clone)
 
 #### Digital
-- Deep Space (Add-on shield for teensy with Audioshield)
+- [Deep Space](DeepSpace) (Add-on shield for teensy with Audioshield)
 
 #### Other
-- 3PDT Foot Switch Breakout Board
+- [3PDT](3PDT_Breakout) Foot Switch Breakout Board
