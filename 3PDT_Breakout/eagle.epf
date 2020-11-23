@@ -1,0 +1,38 @@
+[Eagle]
+Version="09 06 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/PQP1-D12-D15-D.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Ssm2019.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/TEENSY 4.0.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Teensy_Audioshield_no_holes.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/SMD.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/caps-elec.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/caps-film.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/diodes.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/enclosures.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/integrated circuits.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/jacks.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/optical.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/potentiometers.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/regulators.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/relays.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/resistors.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/supply pins.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/switches.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/transducers.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/transistors-BJT.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/transistors-FET.lbr"
+UsedLibrary="C:/Users/Vasilis/Documents/EAGLE/libraries/Effects Layouts Library 2.0/transistors-GERM.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="2560 1440"
+Window="Win_1"
