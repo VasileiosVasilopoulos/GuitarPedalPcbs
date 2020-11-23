@@ -16,7 +16,7 @@ copyrights may apply to the schematics / fonts etc.
 
 #### Fuzz 
 - [Randy's Gut](Randys_Gut) (EQD Dirt Transmitter clone)
-- Zeus (Similar to EQD Blach Ash)
+- [Zeus](Zeus) (Similar to EQD Blach Ash)
 
 #### Octaver
 - [Poseidon](Poseidon) (EQD Tentacle clone)
