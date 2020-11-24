@@ -1,4 +1,4 @@
-# 3PDT Breakout Board
+## 3PDT Breakout Board
 
 3PDT Breakout board with current limiting resistor and 2 spots for 3mm LED (right or left of the switch).
 
@@ -6,5 +6,10 @@
 
 ### Board Preview: 
 
+##### Front
 
-![alt text](3PDT_Breakout.png?raw=true)
+![alt text](3PDT_Front.png?raw=true)
+
+##### Back
+
+![alt text](3PDT_Back.png?raw=true)

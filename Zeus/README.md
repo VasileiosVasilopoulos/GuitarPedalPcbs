@@ -7,5 +7,11 @@ Schematic similar to the EQD Dirt Transmitter.
 
 ### Board Preview: 
 
+##### Front
 
-![alt text](Zeus.png?raw=true)
+![alt text](Zeus_Front.png?raw=true)
+
+##### Back
+
+![alt text](Zeus_Back.png?raw=true)
+
