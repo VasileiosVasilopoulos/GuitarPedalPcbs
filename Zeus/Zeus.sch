@@ -1595,7 +1595,7 @@ For bottom-mount potentiometers
 <part name="C6" library="caps-film" deviceset="CAP" device=".2" value="2.2n"/>
 <part name="D1" library="diodes" deviceset="DO41" device=".3" value="1N5817"/>
 <part name="BIASTRIM" library="potentiometers" deviceset="TRIMMER" device="" value="10k"/>
-<part name="FUZZ" library="potentiometers" deviceset="16MM" device="" value="B25k"/>
+<part name="FUZZ" library="potentiometers" deviceset="16MM" device="" value="B5k"/>
 <part name="TOP" library="potentiometers" deviceset="16MM" device="" value="B25k"/>
 <part name="LEVEL" library="potentiometers" deviceset="16MM" device="" value="A100k"/>
 <part name="IN" library="supply pins" deviceset="IN" device=""/>

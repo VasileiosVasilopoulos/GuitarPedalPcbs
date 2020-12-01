@@ -2698,7 +2698,7 @@ design rules under a new name.</description>
 <element name="Q1" library="transistors-BJT" package="TO18" value="2N1711" x="19.058459375" y="17.7861" smashed="yes" rot="R90">
 <attribute name="NAME" x="17.280459375" y="17.7861" size="1.016" layer="21" ratio="10" rot="R90" align="center"/>
 </element>
-<element name="Q2" library="transistors-BJT" package="TO18" value="1N1711" x="27.948459375" y="24.1361" smashed="yes" rot="R90">
+<element name="Q2" library="transistors-BJT" package="TO18" value="2N1711" x="27.948459375" y="24.1361" smashed="yes" rot="R90">
 <attribute name="NAME" x="26.170459375" y="24.1361" size="1.016" layer="21" ratio="10" rot="R90" align="center"/>
 </element>
 <element name="R6" library="resistors_values" package="R0207/3" value="1M" x="10.168459375" y="10.1661" smashed="yes" rot="R180">
@@ -2740,7 +2740,7 @@ design rules under a new name.</description>
 <element name="C6" library="caps-elec" package="063_025" value="100uF" x="36.81376875" y="25.407240625" smashed="yes">
 <attribute name="NAME" x="36.87726875" y="23.565740625" size="1.016" layer="25" ratio="10" align="center"/>
 </element>
-<element name="C1" library="caps-elec" package="063_025" value="" x="19.03376875" y="25.407240625" smashed="yes">
+<element name="C1" library="caps-elec" package="063_025" value="47uF" x="19.03376875" y="25.407240625" smashed="yes">
 <attribute name="NAME" x="19.09726875" y="23.565740625" size="1.016" layer="25" ratio="10" align="center"/>
 <attribute name="VALUE" x="17.56376875" y="20.851240625" size="1.27" layer="27" ratio="12"/>
 </element>

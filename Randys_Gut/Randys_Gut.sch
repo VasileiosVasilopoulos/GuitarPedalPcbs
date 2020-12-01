@@ -1709,7 +1709,7 @@ spacing: 4 holes
 <part name="R7" library="resistors" deviceset="RESISTORS" device=".3B" value="68k"/>
 <part name="LEVEL" library="potentiometers" deviceset="16MM" device="" value="A100k"/>
 <part name="Q1" library="transistors-BJT" deviceset="2N2222A" device="" value="2N1711"/>
-<part name="Q2" library="transistors-BJT" deviceset="2N2222A" device="" value="1N1711"/>
+<part name="Q2" library="transistors-BJT" deviceset="2N2222A" device="" value="2N1711"/>
 <part name="C7" library="caps-elec" deviceset="050" device="1" value="22uF"/>
 <part name="GND2" library="supply pins" deviceset="GND" device=""/>
 <part name="GND3" library="supply pins" deviceset="GND" device=""/>
@@ -1722,7 +1722,7 @@ spacing: 4 holes
 <part name="GI" library="supply pins" deviceset="GND_PAD" device="ROUND"/>
 <part name="GO" library="supply pins" deviceset="GND_PAD" device="ROUND"/>
 <part name="C6" library="caps-elec" deviceset="063" device="1" value="100uF"/>
-<part name="C1" library="caps-elec" deviceset="063" device="1"/>
+<part name="C1" library="caps-elec" deviceset="063" device="1" value="47uF"/>
 </parts>
 <sheets>
 <sheet>
