@@ -19,5 +19,4 @@ The board is designed to fit in a 1590BB Enclosure.
 Front             |  Back
 :-------------------------:|:-------------------------:
 <img src="DeepSpace_Front.png?raw=true">  |  <img src="DeepSpace_Back.png?raw=true">
-:-------------------------:|:-------------------------:
 <img src="Deep_space_picf.jpg?raw=true">  |  <img src="Deep_space_picb.jpg?raw=true">
