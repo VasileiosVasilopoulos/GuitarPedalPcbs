@@ -6,10 +6,12 @@
 
 ### Board Preview: 
 
-##### Front
+Front             |  Back
+:-------------------------:|:-------------------------:
+<img src="3PDT_Front.png?raw=true">  |  <img src="3PDT_Back.png?raw=true">
 
-![alt text](3PDT_Front.png?raw=true)
+### Manufactured Board: 
 
-##### Back
-
-![alt text](3PDT_Back.png?raw=true)
+Front             |  Back
+:-------------------------:|:-------------------------:
+<img src="3PDT_picf.jpg?raw=true">  |  <img src="3PDT_picb.jpg?raw=true">
