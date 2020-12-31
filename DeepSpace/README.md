@@ -2,6 +2,11 @@
 
 ### Add-on shield used with [Teensy 4.0](https://www.pjrc.com/store/teensy40.html) and the [Teensy Audioshield](https://www.pjrc.com/store/teensy3_audio.html)
 
+#### Status:
+```diff
+- Not Verified
+```
+
 Circuit to add guitar and microphone input to the teensy 4.0 audio shield and output the signal to an amplifier 
 
 The board is designed to fit in a 1590BB Enclosure.

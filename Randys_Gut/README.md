@@ -2,6 +2,11 @@
 
 Fuzz
 
+#### Status:
+```diff
+- Not Verified
+```
+
 Schematic based on EQD Dirt Transmitter
 
 ### Board Preview: 
