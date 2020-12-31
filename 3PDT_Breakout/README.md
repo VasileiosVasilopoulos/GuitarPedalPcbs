@@ -9,9 +9,4 @@
 Front             |  Back
 :-------------------------:|:-------------------------:
 <img src="3PDT_Front.png?raw=true">  |  <img src="3PDT_Back.png?raw=true">
-
-### Manufactured Board: 
-
-Front             |  Back
-:-------------------------:|:-------------------------:
 <img src="3PDT_picb.jpg?raw=true">  |  <img src="3PDT_picf.jpg?raw=true">
