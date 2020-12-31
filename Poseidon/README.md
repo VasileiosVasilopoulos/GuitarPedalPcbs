@@ -1,9 +1,7 @@
-## Poseidon
-
-Octaver
-
-Schematic based on the EQD Tentacle.
-
+## Poseidon  
+##### Status: Verified  
+Octaver  
+Schematic based on the EQD Tentacle.  
 ### Board Preview: 
 
 Front             |  Back
