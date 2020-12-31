@@ -4,13 +4,9 @@ Fuzz
 
 Schematic based on EQD Dirt Transmitter
 
-
 ### Board Preview: 
 
-##### Front
-
-![alt text](Randys_Gut_Front.png?raw=true)
-
-##### Back
-
-![alt text](Randys_Gut_Back.png?raw=true)
+Front             |  Back
+:-------------------------:|:-------------------------:
+<img src="Randys_Gut_Front.png?raw=true">  |  <img src="Randys_Gut_Back.png?raw=true">
+<img src="Randys_picb.jpg?raw=true">  |  <img src="Randys_picb.jpg?raw=true">
