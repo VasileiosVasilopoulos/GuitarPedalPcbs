@@ -14,4 +14,4 @@ Front             |  Back
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-<img src="3PDT_picf.jpg?raw=true">  |  <img src="3PDT_picb.jpg?raw=true">
+<img src="3PDT_picb.jpg?raw=true">  |  <img src="3PDT_picf.jpg?raw=true">

@@ -13,12 +13,13 @@ The board is designed to fit in a 1590BB Enclosure.
 - Teensy output buffer
 - 3 Potentiometer connected to the teensy (configured through the software).
 
+
 ### Board Preview: 
 
-##### Front
+Front             |  Back
+:-------------------------:|:-------------------------:
+<img src="DeepSpace_Front.png?raw=true">  |  <img src="DeepSpace_Back.png?raw=true">
 
-![alt text](DeepSpace_Front.png?raw=true)
-
-##### Back
-
-![alt text](DeepSpace_Back.png?raw=true)
+Front             |  Back
+:-------------------------:|:-------------------------:
+<img src="Deep_space_picf.jpg?raw=true">  |  <img src="Deep_space_picb.jpg?raw=true">
