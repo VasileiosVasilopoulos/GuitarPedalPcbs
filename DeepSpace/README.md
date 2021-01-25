@@ -4,7 +4,7 @@
 
 #### Status:
 ```diff
-- Not Verified
++ Verified except the Phantom power switch
 ```
 
 Circuit to add guitar and microphone input to the teensy 4.0 audio shield and output the signal to an amplifier 

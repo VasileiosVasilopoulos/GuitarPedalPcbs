@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.001" altunitdist="inch" altunit="inch"/>
+<grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.001" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -20,8 +20,8 @@
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
@@ -32,10 +32,10 @@
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
 <layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
@@ -44,8 +44,8 @@
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -64,7 +64,7 @@
 <layer number="106" name="BGA-Top" color="7" fill="1" visible="no" active="yes"/>
 <layer number="107" name="BD-Top" color="7" fill="1" visible="no" active="yes"/>
 <layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
 <layer number="201" name="201bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="250" name="Descript" color="7" fill="1" visible="no" active="yes"/>
 <layer number="251" name="SMDround" color="7" fill="1" visible="no" active="yes"/>
@@ -2223,15 +2223,22 @@
 </library>
 <library name="potentiometers">
 <packages>
-<package name="16MM_PADS.3">
+<package name="16MM_B.MOUNT">
 <description>&lt;b&gt;16mm / Right-Angle /  PC Mount / Short Pin&lt;/b&gt;
 &lt;p&gt;
 For bottom-mount potentiometers
 &lt;p&gt;
 &lt;a href="http://smallbear-electronics.mybigcommerce.com/alpha-single-gang-16mm-right-angle-pc-mount/"&gt;http://smallbear-electronics.mybigcommerce.com/alpha-single-gang-16mm-right-angle-pc-mount/&lt;/a&gt;</description>
+<circle x="0" y="15.875" radius="0.898" width="0.127" layer="22"/>
+<wire x1="-8.89" y1="15.875" x2="0" y2="24.765" width="0.127" layer="22" style="shortdash" curve="-90.001289"/>
+<wire x1="0" y1="24.765" x2="8.89" y2="15.875" width="0.127" layer="22" style="shortdash" curve="-90.001289"/>
+<wire x1="8.89" y1="15.875" x2="0" y2="6.985" width="0.127" layer="22" style="shortdash" curve="-90"/>
+<wire x1="0" y1="6.985" x2="-8.89" y2="15.875" width="0.127" layer="22" style="shortdash" curve="-90"/>
+<wire x1="-7.62" y1="11.43" x2="-7.62" y2="1.651" width="0.127" layer="22" style="shortdash"/>
 <wire x1="-6.604" y1="1.524" x2="-3.556" y2="1.524" width="0.127" layer="21"/>
 <wire x1="-1.524" y1="1.524" x2="1.524" y2="1.524" width="0.127" layer="21"/>
 <wire x1="3.556" y1="1.524" x2="6.604" y2="1.524" width="0.127" layer="21"/>
+<wire x1="7.62" y1="1.651" x2="7.62" y2="11.43" width="0.127" layer="22" style="shortdash"/>
 <wire x1="-6.604" y1="1.524" x2="-6.604" y2="-1.524" width="0.127" layer="21"/>
 <wire x1="-6.604" y1="-1.524" x2="-3.556" y2="-1.524" width="0.127" layer="21"/>
 <wire x1="-3.556" y1="-1.524" x2="-3.556" y2="1.524" width="0.127" layer="21"/>
@@ -2241,6 +2248,9 @@ For bottom-mount potentiometers
 <wire x1="3.556" y1="1.524" x2="3.556" y2="-1.524" width="0.127" layer="21"/>
 <wire x1="3.556" y1="-1.524" x2="6.604" y2="-1.524" width="0.127" layer="21"/>
 <wire x1="6.604" y1="-1.524" x2="6.604" y2="1.524" width="0.127" layer="21"/>
+<wire x1="0" y1="6.985" x2="0" y2="24.765" width="0.127" layer="22" style="shortdash"/>
+<wire x1="-8.89" y1="15.875" x2="8.89" y2="15.875" width="0.127" layer="22" style="shortdash"/>
+<wire x1="-7.62" y1="1.651" x2="7.62" y2="1.651" width="0.127" layer="22" style="shortdash"/>
 <pad name="1" x="5.08" y="0" drill="1.4" diameter="2.54" shape="square" rot="R180"/>
 <pad name="2" x="0" y="0" drill="1.4" diameter="2.54" rot="R180"/>
 <pad name="3" x="-5.08" y="0" drill="1.4" diameter="2.54" rot="R180"/>
@@ -2653,7 +2663,7 @@ design rules under a new name.</description>
 <element name="PWR" library="jacks" package="BATTERY2" value="BATTERYBAT2" x="27.948459375" y="34.2961" smashed="yes">
 <attribute name="NAME" x="27.948459375" y="35.8836" size="0.8128" layer="25" rot="R180" align="center"/>
 </element>
-<element name="BIAS" library="potentiometers" package="16MM_PADS.3" value="B5k" x="10.168459375" y="33.0261" smashed="yes">
+<element name="BIAS" library="potentiometers" package="16MM_B.MOUNT" value="B5k" x="10.168459375" y="33.0261" smashed="yes">
 <attribute name="NAME" x="10.168459375" y="35.6931" size="1.27" layer="26" ratio="10" rot="MR0" align="center"/>
 </element>
 <element name="C5" library="caps-film" package="0.2&quot;.SML" value="100p" x="27.948459375" y="10.1661" smashed="yes">
@@ -2683,13 +2693,13 @@ design rules under a new name.</description>
 <element name="4001" library="diodes" package="DO41-3" value="1N4001" x="27.948459375" y="30.4861" smashed="yes">
 <attribute name="NAME" x="26.856259375" y="30.4861" size="1.016" layer="25" ratio="10" align="center-left"/>
 </element>
-<element name="GREESE" library="potentiometers" package="16MM_PADS.3" value="A100K" x="10.168459375" y="5.0861" smashed="yes">
+<element name="GREESE" library="potentiometers" package="16MM_B.MOUNT" value="A100K" x="10.168459375" y="5.0861" smashed="yes">
 <attribute name="NAME" x="10.168459375" y="2.6731" size="1.27" layer="26" ratio="10" rot="MR0" align="center"/>
 </element>
 <element name="IN" library="supply pins" package="SQUARE" value="IN" x="25.408459375" y="3.8161" smashed="yes">
 <attribute name="NAME" x="25.408459375" y="5.0861" size="0.8128" layer="25" ratio="10" align="bottom-center"/>
 </element>
-<element name="LEVEL" library="potentiometers" package="16MM_PADS.3" value="A100k" x="45.728459375" y="5.0861" smashed="yes">
+<element name="LEVEL" library="potentiometers" package="16MM_B.MOUNT" value="A100k" x="45.728459375" y="5.0861" smashed="yes">
 <attribute name="NAME" x="45.728459375" y="2.6731" size="1.27" layer="26" ratio="10" rot="MR0" align="center"/>
 </element>
 <element name="OUT" library="supply pins" package="SQUARE" value="OUT" x="30.488459375" y="3.8161" smashed="yes">
@@ -2728,7 +2738,7 @@ design rules under a new name.</description>
 <element name="R7" library="resistors" package="R0207/3" value="68k" x="45.728459375" y="27.9461" smashed="yes">
 <attribute name="NAME" x="45.728459375" y="27.46985" size="1.016" layer="25" font="vector" ratio="10" align="bottom-center"/>
 </element>
-<element name="TONE" library="potentiometers" package="16MM_PADS.3" value="B50k" x="45.728459375" y="33.0261" smashed="yes">
+<element name="TONE" library="potentiometers" package="16MM_B.MOUNT" value="B50k" x="45.728459375" y="33.0261" smashed="yes">
 <attribute name="NAME" x="45.728459375" y="35.4391" size="1.27" layer="26" ratio="10" rot="MR0" align="center"/>
 </element>
 <element name="GI" library="supply pins" package="ROUND" value="GND_PADROUND" x="21.598459375" y="3.8161" smashed="yes">

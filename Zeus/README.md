@@ -4,7 +4,7 @@ Fuzz
 
 #### Status:
 ```diff
-- Not Verified
++ Verified
 ```
 
 Schematic similar to the EQD Dirt Transmitter.

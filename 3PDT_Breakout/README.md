@@ -4,7 +4,7 @@
 
 #### Status:
 ```diff
-- Not Verified
++ Verified
 ```
 
 3PDT Switches have small variations in dimensions so make sure to check your switch documentation and modify the footprint if needed.
