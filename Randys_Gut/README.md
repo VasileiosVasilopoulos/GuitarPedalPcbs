@@ -13,5 +13,5 @@ Schematic based on EQD Dirt Transmitter
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-<img src="Randys_Gut_Front.png?raw=true">  |  <img src="Randys_Gut_Back.png?raw=true">
-<img src="Randys_picf.jpg?raw=true">  |  <img src="Randys_picb.jpg?raw=true">
+<img src="Photos/Randys_Gut_Front.png?raw=true">  |  <img src="Photos/Randys_Gut_Back.png?raw=true">
+<img src="Photos/Randys_picf.jpg?raw=true">  |  <img src="Photos/Randys_picb.jpg?raw=true">

@@ -9,11 +9,11 @@ Schematic based on the EQD Tentacle.
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-<img src="Poseidon_Front.png?raw=true">  |  <img src="Poseidon_Back.png?raw=true">
-<img src="Poseidon_picf.jpg?raw=true">  |  <img src="Poseidon_picb.jpg?raw=true">
+<img src="Photos/Poseidon_Front.png?raw=true">  |  <img src="Photos/Poseidon_Back.png?raw=true">
+<img src="Photos/Poseidon_picf.jpg?raw=true">  |  <img src="Photos/Poseidon_picb.jpg?raw=true">
 
 ### Built pedal
 
 Front             |  Inside
 :-------------------------:|:-------------------------:
-<img src="Poseidon_shot.jpg?raw=true">  |  <img src="Poseidon_gutshot.jpg?raw=true">
+<img src="Photos/Poseidon_shot.jpg?raw=true">  |  <img src="Photos/Poseidon_gutshot.jpg?raw=true">
