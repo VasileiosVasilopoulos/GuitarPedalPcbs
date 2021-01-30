@@ -29,4 +29,4 @@ Front             |  Back
 
 ### Drill Template 
 
-<img src="Photos/DeepSpace_Drill.pdf?raw=true">
+[Drill Template](Photos/DeepSpace_Drill.pdf)
