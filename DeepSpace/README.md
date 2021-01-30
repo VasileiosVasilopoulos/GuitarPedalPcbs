@@ -26,7 +26,7 @@ Front             |  Back
 <img src="Photos/DeepSpace_Front.png?raw=true">  |  <img src="Photos/DeepSpace_Back.png?raw=true">
 <img src="Photos/Deep_space_picf.jpg?raw=true">  |  <img src="Photos/Deep_space_picb.jpg?raw=true">
 <img src="Photos/DeepSpaceAssembledFront.jpg?raw=true">  |  <img src="Photos/DeepSpaceAssembledBack.jpg?raw=true">
-<img src="Photos/Enclosure_1.jpg?raw=true">  |  <img src="Photos/Enclosure_2.jpg?raw=true">
+<img src="Photos/Enclosure_Front.jpg?raw=true">  |  <img src="Photos/Enclosure_Back.jpg?raw=true">
 
 ### Drill Template 
 
