@@ -17,3 +17,7 @@ Front             |  Back
 Front             |  Inside
 :-------------------------:|:-------------------------:
 <img src="Photos/Poseidon_shot.jpg?raw=true">  |  <img src="Photos/Poseidon_gutshot.jpg?raw=true">
+
+### Drill Template 
+
+[Drill Template](Photos/PoseidonDrill.pdf)
